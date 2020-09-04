@@ -1,2 +1,3 @@
 # hello-world
-fist repository
+first repository
+i am a human speaking in bytes
